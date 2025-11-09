@@ -1,0 +1,37 @@
+.elementor-kit-5{--e-global-color-primary:#FFFFFF;--e-global-color-secondary:#C20104;--e-global-color-text:#FFFFFF;--e-global-color-accent:#000000;--e-global-color-2f0b7b9:#990101;--e-global-color-dcbe3e9:#D6C06D;--e-global-color-bb7f07c:#C1A250;--e-global-color-dabc927:#FE9903;--e-global-color-20d97fb:#6ADBD8;--e-global-color-772eef1:#2C5C5A;--e-global-color-5bb9d2c:#DB050B;--e-global-typography-primary-font-family:"Plus Jakarta Sans";--e-global-typography-primary-font-size:16px;--e-global-typography-primary-font-weight:400;--e-global-typography-secondary-font-family:"Plus Jakarta Sans";--e-global-typography-secondary-font-size:16px;--e-global-typography-secondary-font-weight:700;--e-global-typography-text-font-family:"Plus Jakarta Sans";--e-global-typography-text-font-size:16px;--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Plus Jakarta Sans";--e-global-typography-accent-font-size:16px;--e-global-typography-accent-font-weight:600;color:#FFFFFF;font-family:"Plus Jakarta Sans";}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{background-color:#990101;font-family:"Poppins";font-size:16px;font-weight:800;color:#FFFFFF;border-radius:0px 0px 0px 0px;}.elementor-kit-5 e-page-transition{background-color:#111111;}.elementor-kit-5 a{color:var( --e-global-color-text );}.elementor-kit-5 h1{color:#FFFFFF;font-family:"Sora";font-size:18px;}.elementor-kit-5 h2{color:#FFFFFF;font-family:"Sora";font-size:30px;font-weight:700;}.elementor-kit-5 h3{color:var( --e-global-color-primary );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1120px;}.e-con{--container-max-width:1120px;--container-default-padding-top:0px;--container-default-padding-right:0px;--container-default-padding-bottom:0px;--container-default-padding-left:0px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/PlusJakartaSans-Regular.eot');
+	src: url('../fonts/PlusJakartaSans-Regular.eot#iefix') format('embedded-opentype'),
+		url('../fonts/PlusJakartaSans-Regular.woff2') format('woff2'),
+		url('../fonts/PlusJakartaSans-Regular.woff') format('woff'),
+		url('../fonts/PlusJakartaSans-Regular.ttf') format('truetype'),
+		url('../images/PlusJakartaSans-Regular.svg#PlusJakartaSans') format('svg');
+}
+@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('../fonts/PlusJakartaSans-Light.eot');
+	src: url('../fonts/PlusJakartaSans-Light.eot#iefix') format('embedded-opentype'),
+		url('../fonts/PlusJakartaSans-Light.woff2') format('woff2'),
+		url('../fonts/PlusJakartaSans-Light.woff') format('woff'),
+		url('../fonts/PlusJakartaSans-Light.ttf') format('truetype'),
+		url('../images/PlusJakartaSans-Light.svg#PlusJakartaSans') format('svg');
+}
+@font-face {
+	font-family: 'Plus Jakarta Sans';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('../fonts/PlusJakartaSans-Bold.eot');
+	src: url('../fonts/PlusJakartaSans-Bold.eot#iefix') format('embedded-opentype'),
+		url('../fonts/PlusJakartaSans-Bold.woff2') format('woff2'),
+		url('../fonts/PlusJakartaSans-Bold.woff') format('woff'),
+		url('../fonts/PlusJakartaSans-Bold.ttf') format('truetype'),
+		url('../images/PlusJakartaSans-Bold.svg#PlusJakartaSans') format('svg');
+}
+/* End Custom Fonts CSS */
